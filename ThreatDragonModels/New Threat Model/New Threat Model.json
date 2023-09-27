@@ -1,0 +1,16 @@
+{
+  "version": "2.0.8",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Pablo",
+    "description": "TEST TOOL",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "PAblo",
+    "threatTop": 0
+  }
+}
